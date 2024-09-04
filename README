@@ -1,0 +1,2 @@
+some practice templating with jinja in flask application
+we use api to geuss the information of name that we input like age or gender 
